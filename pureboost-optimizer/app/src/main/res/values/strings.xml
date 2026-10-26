@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PureBoost VN</string>
+    <string name="app_subtitle">Tối Ưu Hệ Thống • Sạch Như Mới • OLED Max Mode</string>
+    <string name="nav_dashboard">Tổng quan</string>
+    <string name="nav_cleaner">Dọn rác</string>
+    <string name="nav_cooler">Hạ nhiệt &amp; Pin</string>
+    <string name="nav_auto">Tự động</string>
+    <string name="mode_saver">Tiết kiệm</string>
+    <string name="mode_balanced">Cân bằng</string>
+    <string name="mode_max">Max Mode</string>
+    <string name="btn_boost_now">Tối Ưu &amp; Tăng Tốc Ngay</string>
+    <string name="btn_boosting">Đang Tối Ưu Hệ Thống…</string>
+    <string name="btn_clean_now">Dọn Sạch Rác Đã Chọn</string>
+    <string name="btn_scan_junk">Quét Lại Toàn Bộ</string>
+    <string name="btn_cool_down">Đóng Ứng Dụng Ngầm &amp; Hạ Nhiệt</string>
+    <string name="btn_run_auto_now">Chạy Chu Kỳ Dọn Đệm Ngay</string>
+    <string name="btn_test_alert">Kiểm Tra Cảnh Báo Hao Pin</string>
+    <string name="chart_title">Biểu Đồ Hiệu Năng &amp; Nhiệt Độ Thời Gian Thực</string>
+    <string name="storage_breakdown_title">Phân Tích Dung Lượng Theo Phân Loại Tệp</string>
+    <string name="junk_categories_title">Hạng Mục Bộ Nhớ Đệm &amp; Rác Hệ Thống</string>
+    <string name="battery_thermal_title">Chẩn Đoán Nhiệt Độ &amp; Tiêu Thụ Pin</string>
+    <string name="background_apps_title">Ứng Dụng Chạy Ngầm Gây Hao Pin / Nóng Máy</string>
+    <string name="auto_schedule_title">Lịch Giải Phóng Bộ Nhớ Đệm Định Kỳ</string>
+    <string name="smart_alert_title">Thông Báo Tự Động Khi Ứng Dụng Ngầm Hao Pin</string>
+    <string name="history_logs_title">Nhật Ký Tối Ưu Hóa Gần Đây</string>
+</resources>

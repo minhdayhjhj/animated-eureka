@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="360dp"
+    android:height="140dp"
+    android:viewportWidth="360"
+    android:viewportHeight="140">
+    <path android:pathData="M0,0h360v140h-360z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="360"
+                android:endY="140"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#07120F" />
+                <item android:offset="0.5" android:color="#0B221B" />
+                <item android:offset="1.0" android:color="#050B09" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Cyber grid & circuit traces -->
+    <path
+        android:strokeColor="#1A10B981"
+        android:strokeWidth="1"
+        android:pathData="M0,35 L360,35 M0,70 L360,70 M0,105 L360,105 M60,0 L60,140 M120,0 L120,140 M180,0 L180,140 M240,0 L240,140 M300,0 L300,140" />
+    <path
+        android:strokeColor="#4D10B981"
+        android:strokeWidth="2"
+        android:pathData="M20,105 L75,105 L95,70 L165,70 L185,35 L260,35 L285,70 L340,70" />
+    <path
+        android:strokeColor="#4D06B6D4"
+        android:strokeWidth="1.5"
+        android:pathData="M30,35 L85,35 L110,85 L210,85 L235,50 L330,50" />
+    <!-- Glowing nodes -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M95,70m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M185,35m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M235,50m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M285,70m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+</vector>
