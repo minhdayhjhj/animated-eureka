@@ -1,0 +1,6 @@
+{
+  "name": "PureBoost VN",
+  "description": "Ứng dụng tối ưu hóa hệ thống, dọn rác chuyên sâu, kiểm soát nhiệt độ và tăng tốc điện thoại với giao diện OLED Dark Emerald.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
